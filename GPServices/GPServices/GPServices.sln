@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPServices", "GPServices\GPServices.csproj", "{AB1CC753-84B1-4E6D-9AF5-F130465FC4DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMClass", "PMClass\PMClass.csproj", "{4CA980FF-2115-404F-A055-39BA493437EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eConnectIntegration", "eConnectIntegration\eConnectIntegration.csproj", "{3D9BB2F0-6666-4EA2-853B-A67139B58BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLClass", "GLClass\GLClass.csproj", "{7615B08A-B09C-4D94-9CDE-97AA4AEDC7DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMClass", "RMClass\RMClass.csproj", "{44EFCC3B-9B0D-4410-8514-B6282470ED95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOPClass", "SOPClass\SOPClass.csproj", "{5C454116-C6AE-489D-B195-315D2C174520}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1CC753-84B1-4E6D-9AF5-F130465FC4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1CC753-84B1-4E6D-9AF5-F130465FC4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1CC753-84B1-4E6D-9AF5-F130465FC4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1CC753-84B1-4E6D-9AF5-F130465FC4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA980FF-2115-404F-A055-39BA493437EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA980FF-2115-404F-A055-39BA493437EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA980FF-2115-404F-A055-39BA493437EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA980FF-2115-404F-A055-39BA493437EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9BB2F0-6666-4EA2-853B-A67139B58BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9BB2F0-6666-4EA2-853B-A67139B58BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9BB2F0-6666-4EA2-853B-A67139B58BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9BB2F0-6666-4EA2-853B-A67139B58BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7615B08A-B09C-4D94-9CDE-97AA4AEDC7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7615B08A-B09C-4D94-9CDE-97AA4AEDC7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7615B08A-B09C-4D94-9CDE-97AA4AEDC7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7615B08A-B09C-4D94-9CDE-97AA4AEDC7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44EFCC3B-9B0D-4410-8514-B6282470ED95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44EFCC3B-9B0D-4410-8514-B6282470ED95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44EFCC3B-9B0D-4410-8514-B6282470ED95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44EFCC3B-9B0D-4410-8514-B6282470ED95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C454116-C6AE-489D-B195-315D2C174520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C454116-C6AE-489D-B195-315D2C174520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C454116-C6AE-489D-B195-315D2C174520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C454116-C6AE-489D-B195-315D2C174520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="GPServices.RMTransaction" CodeBehind="RMTransaction.svc.cs" %>
